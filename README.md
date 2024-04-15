@@ -1,4 +1,4 @@
-# Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
+![robo](https://github.com/Srikaavyaathamizh/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/144870938/b798babf-de71-4c64-ba49-727bc7ad0292)![WhatsApp Image 2024-04-15 at 14 31 08_af524b28](https://github.com/Srikaavyaathamizh/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/144870938/bdb5dfad-ac72-4a64-82e4-422fa7f3f7ab)# Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
 
 ### Aim :
       To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
@@ -36,38 +36,17 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 
 ### Program : 
-DART studio screen shots for linear interpolation 
-
-
-
-
-
-
-
-
-
-DART studio screen shots for joint interpolation 
-
-
-
-
-
-
+![robo](https://github.com/Srikaavyaathamizh/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/144870938/e9b0a789-badb-4258-ab0c-1a7f82e76bcb)
 
 
 ### Robot movements 
 
+![rob](https://github.com/Srikaavyaathamizh/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/144870938/e8cf7997-fdb2-4bed-a910-3a636459b85d)
 
-
-
-
-
-
-
-
-
-
+![ro](https://github.com/Srikaavyaathamizh/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/144870938/a2f690ec-c997-4a79-ad50-32e97a3e1ca8)
 
 
 
 ### Results:  
+
+Thus the program of joint interpolation of industrial manipulator has executed successfully
